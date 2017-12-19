@@ -1,0 +1,23 @@
+{
+  "name": "numberprettifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcirone/numberPrettifier.git"
+  },
+  "author": "Fabio Cirone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcirone/numberPrettifier/issues"
+  },
+  "homepage": "https://github.com/fcirone/numberPrettifier#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
